@@ -13,3 +13,8 @@ targetConfigs:
   - name: raw-ex
     targetPath: containers
     schedule: "*/1 * * * *"
+  kube:
+  - name: kube-ex
+    targetPath: kp
+    schedule: "*/1 * * * *"
+  branch: main
