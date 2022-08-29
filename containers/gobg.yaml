@@ -1,4 +1,4 @@
-Image: "docker.io/christianh814/gobg:blue"
+Image: "docker.io/christianh814/gobg:green"
 Name: "gobg"
 Ports:
   - container_port: 8080
