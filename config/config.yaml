@@ -1,6 +1,3 @@
-configReload:
-  schedule: "*/1 * * * *"
-  configUrl: https://raw.githubusercontent.com/christianh814/fetchit-demo/main/config/config.yaml
 targetConfigs:
 - url: https://github.com/christianh814/fetchit-demo
   branch: main
