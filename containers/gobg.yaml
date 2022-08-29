@@ -1,0 +1,6 @@
+Image: "docker.io/christianh814/gobg:blue"
+Name: "gobg"
+Ports:
+  - container_port: 8080
+    host_port: 9081
+    range: 0
